@@ -707,3 +707,7 @@ There are tons of examples over at [react-native-svg-chart-examples](https://git
 ## License
 
 [MIT](./LICENSE)
+
+
+
+ "react-native-svg":"13.4.0", //"15.8.0",
